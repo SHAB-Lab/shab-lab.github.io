@@ -2,8 +2,8 @@
 title:               SHAB Lab
 tagline:             '&#129516;'
 description:         'The Situated Health and Biology Lab.'
-url:                 
-baseurl:             ''
+url:                 https://shab-lab.github.io
+baseurl:             /
 paginate:            5
 permalink:           pretty
 
