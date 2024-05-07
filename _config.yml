@@ -1,24 +1,24 @@
 # Setup
-title:               SHAB Lab
-tagline:             '&#129516;'
-description:         'The Situated Health and Biology Lab.'
-url:                 https://shab-lab.github.io
-baseurl:             /
-paginate:            5
-permalink:           pretty
+title: SHAB Lab
+tagline: "&#129516;"
+description: "The Situated Health and Biology Lab."
+url: https://shab-lab.github.io
+baseurl: /
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              Tomas Gonzalez Zarzar
-  url:               
-  email:             tomas.gonzalez@umayor.cl
+  name: Tomas Gonzalez Zarzar
+  url:
+  email: tomasgzarzar@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 google_analytics_id: #UA-XXXX-Y
 
 include:

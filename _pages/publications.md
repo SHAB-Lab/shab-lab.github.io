@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Koch, S. L., Zaidi, A., **González, T.**, Shriver, M. D., & Jablonski, N. G. (2024). The Trotter collection: A review of Mildred Trotter's hair research and an update for studies of human variation. [American Journal of Biological Anthropology, e24930.](https://doi.org/10.1002/ajpa.24930)
+
 Silva Gallardo, C. P., & **González Zarzar, T.** (2023). The Dialectics of Racial Invisibility and Hyper-Visibility under the Mestizaje Discourse in Latin America. [The American Journal of Bioethics, 23(7), 111–112.](https://doi.org/10/gsc8hd)
 
 Zhou, J., Guare, L., **Zarzar, T. G.**, Palmiero, N., Assimes, T. L., Verma, S. S., & Hall, M. A. (2023). Flexibly encoded GWAS identifies novel nonadditive SNPs in individuals of African and European ancestry [(p. 2023.06.01.23290857). medRxiv.](https://doi.org/10.1101/2023.06.01.23290857)
