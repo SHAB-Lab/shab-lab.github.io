@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+**González Zarzar, T.**, Palmiero, N. E., Kim, K., Shen, L., & Hall, M. A. (2024). Differential effects of environmental exposures on clinically relevant endophenotypes between sexes. [Scientific Reports, 14, 21453.](https://doi.org/10.1038/s41598-024-72180-x)
 
 Koch, S. L., Zaidi, A., **González, T.**, Shriver, M. D., & Jablonski, N. G. (2024). The Trotter collection: A review of Mildred Trotter's hair research and an update for studies of human variation. [American Journal of Biological Anthropology, e24930.](https://doi.org/10.1002/ajpa.24930)
 
